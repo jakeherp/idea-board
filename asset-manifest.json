@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/idea-board/static/js/main.917e4450.chunk.js",
+    "main.js.map": "/idea-board/static/js/main.917e4450.chunk.js.map",
+    "runtime~main.js": "/idea-board/static/js/runtime~main.d1799a13.js",
+    "runtime~main.js.map": "/idea-board/static/js/runtime~main.d1799a13.js.map",
+    "static/js/2.7ac3661b.chunk.js": "/idea-board/static/js/2.7ac3661b.chunk.js",
+    "static/js/2.7ac3661b.chunk.js.map": "/idea-board/static/js/2.7ac3661b.chunk.js.map",
+    "index.html": "/idea-board/index.html",
+    "precache-manifest.2afaed5510f2fb9bff0264f2bc76796a.js": "/idea-board/precache-manifest.2afaed5510f2fb9bff0264f2bc76796a.js",
+    "service-worker.js": "/idea-board/service-worker.js"
+  }
+}
