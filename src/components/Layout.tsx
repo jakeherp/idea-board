@@ -4,7 +4,8 @@ import styled, { createGlobalStyle } from "styled-components"
 const Style = createGlobalStyle`
     body {
         margin: 0;
-        background: linear-gradient(to right, #43cea2, #185a9d);
+		background: #8a2387;
+		background: linear-gradient(to right, #8a2387, #e94057, #f27121);
         color: #fff;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     }
