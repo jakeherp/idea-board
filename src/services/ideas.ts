@@ -1,5 +1,5 @@
 import axios from "axios"
-const baseUrl = "http://localhost:5000/ideas"
+const baseUrl = "https://my-json-server.typicode.com/jakeherp/idea-board/ideas"
 
 const getIdeas = () => {
 	return axios.get(baseUrl)
